@@ -9,3 +9,12 @@
 Speed = Distance/Speed
 
 #### Note- We need to divide the column by 3600 as the data is in seconds
+
+### Q2. How many rides are taken in the month of February?
+
+#### Note- The code for the month of February is 2
+
+### Q3. How many tips are given that are more than 50?
+### Q4. Number of rides when was JFK airport?
+
+#### Note- The code for the JFK airport is 2.
